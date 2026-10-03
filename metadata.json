@@ -1,0 +1,8 @@
+{
+  "name": "LessonFlow",
+  "description": "Effortlessly create, sync, and export precise, offline-ready lesson plans with automated timing and a clean, accessible interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
